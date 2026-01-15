@@ -12,7 +12,7 @@ Also experience in electrical engineering — not formally trained, but built fr
 
 Started in agricultural machinery, engineering complete systems — from control panels and I/O hardware to hydraulics and pneumatics. Hands-on experience with industrial networks (ASI-3, EtherCAT) and full system integration.
 
-Also worked in construction preparation — the practical side where designs meet reality. Materials, logistics, planning: making sure everything lines up so things actually get built.
+Also worked in construction preparation — the practical side where designs meets reality. Materials, logistics, planning: making sure everything lines up so things actually get built.
 
 Now I've transitioned from mechanical engineering into the AEC industry, applying the same systematic thinking to construction technology and open BIM.
 
