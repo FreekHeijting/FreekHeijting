@@ -4,7 +4,7 @@
 
 Mechanical Engineering graduate (BSc) with a minor in Mechatronics. Passionate about control systems, automation, and machine design — now building custom software solutions for the construction industry.
 
-Also hands-on experience in electrical engineering — not formally trained, but built from hands-on experience and gained knowledge.
+Also experience in electrical engineering — not formally trained, but built from hands-on experience and gained knowledge.
 
 ---
 
